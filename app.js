@@ -14,6 +14,7 @@ function exibirMensagemInicial() {
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
 }
 
+
 exibirMensagemInicial();
 
 function verificarChute() {
